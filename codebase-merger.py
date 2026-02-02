@@ -1,3 +1,4 @@
+# Codebase merger by Wahaz Softs github.com/Wahaze
 import os
 import argparse
 import chardet
